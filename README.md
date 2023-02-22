@@ -1,5 +1,5 @@
 ShoppingWeb
-Shopping Website
+
 
 Team members -Huayi Tao 6138425 -Haiao Ji 6138009
 
